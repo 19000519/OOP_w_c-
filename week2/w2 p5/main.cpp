@@ -1,5 +1,6 @@
-#include <iostream>
+//program to covert degree cdntigrade to farhenheit
 
+#include <iostream>
 using namespace std;
 
 int main()
