@@ -1,5 +1,5 @@
+//Program to calculate simple interest
 #include <iostream>
-
 using namespace std;
 
 int main()
